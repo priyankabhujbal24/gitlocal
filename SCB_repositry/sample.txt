@@ -1,2 +1,2 @@
 working with GitHub
-hey check can it be change after commit 
+hey check can it be change 
